@@ -1,15 +1,15 @@
 using Xamarin.Forms;
-using Xamarin.Forms.Platform.iOS;
-using MonoTouch.UIKit;
+using UIKit;
 using System;
 using XamarinFormsGestureRecognizers;
 using XamarinFormsGestureRecognizers.iOS;
+using Xamarin.Forms.Platform.iOS;
 
 [assembly: ExportRenderer (typeof(FancyLabel), typeof(FancyIosLabelRenderer))]
 
 namespace XamarinFormsGestureRecognizers.iOS
 {
-	public class FancyIosLabelRenderer : LabelRenderer
+    public class FancyIosLabelRenderer : LabelRenderer
 	{
 		UILongPressGestureRecognizer longPressGestureRecognizer;
 		UIPinchGestureRecognizer pinchGestureRecognizer;

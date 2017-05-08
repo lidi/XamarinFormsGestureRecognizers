@@ -1,16 +1,22 @@
-﻿<Properties StartupItem="Android/XamarinFormsGestureRecognizers.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Android/FancyAndroidLabelRenderer.cs">
+﻿<Properties StartupConfiguration="{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Xamarin.Forms.2.3.4.231/build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets">
     <Files>
-      <File FileName="XamarinFormsGestureRecognizers/App.cs" Line="1" Column="1" />
-      <File FileName="iOS/FancyIosLabelRenderer.cs" Line="1" Column="1" />
-      <File FileName="XamarinFormsGestureRecognizers/FancyLabel.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsGestureRecognizers/App.cs" Line="25" Column="2" />
+      <File FileName="iOS/FancyIosLabelRenderer.cs" Line="7" Column="12" />
+      <File FileName="XamarinFormsGestureRecognizers/FancyLabel.cs" Line="6" Column="2" />
       <File FileName="Android/MainActivity.cs" Line="1" Column="1" />
       <File FileName="Android/FancyAndroidLabelRenderer.cs" Line="11" Column="4" />
+      <File FileName="iOS/Main.cs" Line="15" Column="2" />
+      <File FileName="iOS/AppDelegate.cs" Line="7" Column="7" />
+      <File FileName="packages/Xamarin.Forms.2.3.4.231/build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets" Line="40" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsGestureRecognizers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9E93F0D8-50EA-4A22-B4F7-FC71210923E7" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsGestureRecognizers.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
 </Properties>
